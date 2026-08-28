@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Lazy Roller
+## Notes: Controlled Season 10 Wildcard single-roll and Rapid batch automation.
+## Author: lazyloafs
+## Version: 1.0.17
+## SavedVariables: LazyRollerDB
+
+LazyRoller.lua
